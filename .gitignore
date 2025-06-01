@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Spark output
+output
+
+# Saved viz
+vizualizare.png
